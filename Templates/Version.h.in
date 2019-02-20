@@ -1,0 +1,6 @@
+#pragma once
+
+// Version inforamtion
+#define STL_VERESION_MAJOR @VERESION_MAJOR@
+#define STL_VERESION_MID @VERSION_MID@
+#define STL_VERESION_MINOR @VERSION_MINOR@
