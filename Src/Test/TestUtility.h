@@ -32,6 +32,14 @@ namespace MSTD {
 			++_testPass;
 		}
 
+		void reportResult() const
+		{
+			std::cout << "Unit Test finish!" << std::endl;
+			std::cout << _testPass << '/' << _testCount
+					<< " (" << static_cast<double>(_testPass * 100) / static_cast<double>(_testCount)
+					<< '%' << ") passed." << std::endl;
+		}
+
 	protected:
 		TestCounter() = default;
 

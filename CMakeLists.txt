@@ -4,7 +4,7 @@ project (Mini-STL)
 
 # set version number 
 SET(VERESION_MAJOR 0)
-SET(VERSION_MID 1)
+SET(VERSION_MID 4)
 SET(VERSION_MINOR 3)
 
 # set paths
