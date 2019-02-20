@@ -43,5 +43,9 @@ option(USE_EXCEPTION
 * Set to 'on' to enable Exception Handling in Mini-STL;
 * Set to 'off' to disable Exception Handling in Mini-STL;
 
+## Futrue Work
+* Complete the Unit Test Module;
+* Add more useful containers or algorithms;
+
 ## Licience
 Mini-STL is under [MIT](https://opensource.org/licenses/MIT) licience.
