@@ -1,6 +1,3 @@
-#include <iostream>
-#include <vector>
-
 #include <Config/Config.h>
 #include "Test/TestUtility.h"
 
